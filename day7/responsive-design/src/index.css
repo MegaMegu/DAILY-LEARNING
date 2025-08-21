@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  background-color: rgb(66, 66, 66);
+}
+
+.bg {
+  background-image: url("https://i.pinimg.com/1200x/b2/39/38/b23938911980848ff8a0863d76adc18d.jpg");
+}
+
+@theme {
+  --font-funnel-sans: "Funnel Sans", sans-serif;
+  --text-2xs: 0.625rem;
+  --leading-2xs: 1rem;
+}
